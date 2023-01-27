@@ -1,0 +1,5 @@
+Data needs to be managed in such a way so that it can produce some meaningful information
+
+To provide an appropriate way to structure the data, we need to know about Data structures
+
+Data Structure is the systematic way to organize data so that it can be used efficiently
